@@ -18,7 +18,7 @@ resourcestring
   SUnknownFieldType = 'Campo "%s" de tipo desconhecido';
   SFieldNameMissing = 'Nome do campo ausente';
   SDuplicateFieldName = 'Nome de campo duplicado "%s"';
-  SFieldNotFound = '%s: Campo "%s" não encontrado';
+  SFieldNotFound = 'Campo "%s" não encontrado';
   SFieldAccessError = 'Não é possível acessar o campo "%s" do tipo %s';
   SFieldValueError = 'Valor inválido para o campo "%s"';
   SFieldRangeError = '%g Não é um valor válido para o campo "%s". A faixa permitida é de %g até %g';

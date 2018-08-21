@@ -24,7 +24,7 @@ begin
   SetResourceString(@SUnknownFieldType, 'Campo "%s" de tipo desconhecido');
   SetResourceString(@SFieldNameMissing, 'Nome do campo ausente');
   SetResourceString(@SDuplicateFieldName, 'Nome de campo duplicado "%s"');
-  SetResourceString(@SFieldNotFound, '%s: Campo "%s" não encontrado');
+  SetResourceString(@SFieldNotFound, 'Campo "%s" não encontrado');
   SetResourceString(@SFieldAccessError, 'Não é possível acessar o campo "%s" do tipo %s');
   SetResourceString(@SFieldValueError, 'Valor inválido para o campo "%s"');
   SetResourceString(@SFieldRangeError, '%g Não é um valor válido para o campo "%s". A faixa permitida é de %g até %g');
